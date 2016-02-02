@@ -8,14 +8,14 @@
         <!-- Each li is a different version of the same add-on -->
         <RDF:li>
           <RDF:Description>
-            <em:version>1.0.beta11pre4.1436.rb482daa</em:version>
+            <em:version>1.0.beta11pre4.1452.r38c6478</em:version>
 
             <!-- Firefox -->
             <em:targetApplication>
               <RDF:Description>
                 <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
                 <em:minVersion>24.0</em:minVersion>
-                <em:maxVersion>46.0a1</em:maxVersion>
+                <em:maxVersion>47.0a1</em:maxVersion>
                 <em:updateLink>https://sslsites.de/requestpolicy.256k.de/requestpolicy-nightly.xpi</em:updateLink>
               </RDF:Description>
             </em:targetApplication>
@@ -35,7 +35,7 @@
               <RDF:Description>
                 <em:id>{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}</em:id>
                 <em:minVersion>25.0</em:minVersion>
-                <em:maxVersion>25.*</em:maxVersion>
+                <em:maxVersion>26.*</em:maxVersion>
                 <em:updateLink>https://sslsites.de/requestpolicy.256k.de/requestpolicy-nightly.xpi</em:updateLink>
               </RDF:Description>
             </em:targetApplication>
