@@ -8,14 +8,14 @@
         <!-- Each li is a different version of the same add-on -->
         <RDF:li>
           <RDF:Description>
-            <em:version>1.0.beta11.1</em:version>
+            <em:version>1.0.beta13.2.2168.r32cbf459c.pre</em:version>
 
             <!-- Firefox -->
             <em:targetApplication>
               <RDF:Description>
                 <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
-                <em:minVersion>24.0</em:minVersion>
-                <em:maxVersion>47.0a1</em:maxVersion>
+                <em:minVersion>45.0</em:minVersion>
+                <em:maxVersion>56.*</em:maxVersion>
                 <em:updateLink>https://sslsites.de/requestpolicy.256k.de/requestpolicy-nightly.xpi</em:updateLink>
               </RDF:Description>
             </em:targetApplication>
@@ -24,8 +24,8 @@
             <em:targetApplication>
               <RDF:Description>
                 <em:id>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</em:id>
-                <em:minVersion>2.21</em:minVersion>
-                <em:maxVersion>2.39.*</em:maxVersion>
+                <em:minVersion>2.42</em:minVersion>
+                <em:maxVersion>2.49.*</em:maxVersion>
                 <em:updateLink>https://sslsites.de/requestpolicy.256k.de/requestpolicy-nightly.xpi</em:updateLink>
               </RDF:Description>
             </em:targetApplication>
@@ -34,8 +34,8 @@
             <em:targetApplication>
               <RDF:Description>
                 <em:id>{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}</em:id>
-                <em:minVersion>25.0</em:minVersion>
-                <em:maxVersion>26.*</em:maxVersion>
+                <em:minVersion>27.0</em:minVersion>
+                <em:maxVersion>27.*</em:maxVersion>
                 <em:updateLink>https://sslsites.de/requestpolicy.256k.de/requestpolicy-nightly.xpi</em:updateLink>
               </RDF:Description>
             </em:targetApplication>
