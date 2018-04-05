@@ -8,7 +8,7 @@
         <!-- Each li is a different version of the same add-on -->
         <RDF:li>
           <RDF:Description>
-            <em:version>1.0.beta13.2.2168.r32cbf459c.pre</em:version>
+            <em:version>1.0.beta13.2.2170.r19b6efe2e.pre</em:version>
 
             <!-- Firefox -->
             <em:targetApplication>
