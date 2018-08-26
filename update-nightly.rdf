@@ -8,7 +8,7 @@
         <!-- Each li is a different version of the same add-on -->
         <RDF:li>
           <RDF:Description>
-            <em:version>1.0.beta13.2.2277.r4d80b1f76.pre</em:version>
+            <em:version>1.0.beta13.2.2448.r2f5182f6d.pre</em:version>
 
             <!-- Firefox -->
             <em:targetApplication>
@@ -35,7 +35,7 @@
               <RDF:Description>
                 <em:id>{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}</em:id>
                 <em:minVersion>27.0</em:minVersion>
-                <em:maxVersion>27.*</em:maxVersion>
+                <em:maxVersion>28.*</em:maxVersion>
                 <em:updateLink>https://requestpolicy.256k.de/requestpolicy-nightly.xpi</em:updateLink>
               </RDF:Description>
             </em:targetApplication>
